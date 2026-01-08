@@ -87,7 +87,6 @@ Test Vector: <A> <B> <Cin> | Expected: <Expected Sum> | Actual: <Actual Sum> | R
 
 ---
 
-## Author
-- **Your Name**
+
 - **Date**: March 2025
 
